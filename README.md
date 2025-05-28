@@ -23,7 +23,7 @@ This tool helps conservationists, researchers, and nature enthusiasts:
 - Advanced CSS animations for immersive experience
 
 ## 🌿 Get Started
-1. Clone repository: `git clone https://github.com/ankitparwatkar/NeuralForest-AI.git`
+1. Clone repository: `git clone https://github.com/ankitparwatkar/NeuralForest-Ecosystem-AI-Forest-Cover-Prediction.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run app: `streamlit run app.py`
 
