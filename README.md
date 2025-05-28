@@ -1,1 +1,1 @@
-# Neural-Forest-AI-Forest-Cover-Prediction-Ankit-Parwatkar
+# Neural-Forest-AI-Forest-Cover-Prediction
