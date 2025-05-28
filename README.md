@@ -1,4 +1,4 @@
-# 🌲 NeuralForest AI - Forest Cover Prediction
+# 🌲 NeuralForest Ecosystem AI - Forest Cover Prediction
 
 **An immersive AI-powered web app that predicts forest cover types using cartographic data with a stunning forest-themed interface.**
 
